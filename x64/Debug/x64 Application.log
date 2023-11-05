@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\CODE\denemeler\x64 Application\Source.cpp(45,9): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\CODE\denemeler\x64 Application\Source.cpp(45,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\CODE\denemeler\x64 Application\Source.cpp(162,52): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\CODE\denemeler\x64 Application\Source.cpp(163,52): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\CODE\denemeler\x64 Application\Source.cpp(167,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\CODE\denemeler\x64 Application\Source.cpp(168,58): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\CODE\denemeler\x64 Application\Source.cpp(169,55): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\CODE\denemeler\x64 Application\Source.cpp(171,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\CODE\denemeler\x64 Application\Source.cpp(172,58): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\CODE\denemeler\x64 Application\Source.cpp(173,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  x64 Application.vcxproj -> C:\CODE\denemeler\x64 Application\x64\Debug\x64 Application.exe
